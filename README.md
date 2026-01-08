@@ -16,4 +16,10 @@ Hi! I’m an IT student who is passionate about software development and problem
 ---
 [![](https://visitcount.itsvg.in/api?id=miqi4&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
