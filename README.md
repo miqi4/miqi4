@@ -11,15 +11,8 @@ Hi! I’m an IT student who is passionate about software development and problem
 ![](https://github-readme-stats.vercel.app/api?username=miqi4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=miqi4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miqi4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miqi4&layout=compact&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=miqi4&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
