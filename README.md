@@ -12,9 +12,6 @@ Hi! I’m an IT student who is passionate about software development and problem
 ![](https://nirzak-streak-stats.vercel.app/?user=miqi4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miqi4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=miqi4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=miqi4&icon=0&color=1)](https://visitcount.itsvg.in)
 
